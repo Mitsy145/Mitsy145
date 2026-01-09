@@ -1,7 +1,9 @@
-# 💫 About Me:
+<h1 align="center">Meenakshi Joshi</h1>
+<h3 align="center">Software Developer · Dubai</h3>
 
-Meenakshi Joshi
-Software Developer · Dubai
+---
+
+## 🦅 About Me:
 
 🛠 Currently Working On
 Designing and scaling the Emireq Marketplace platform as a full‑stack software developer, with a strong focus on robust backend APIs, secure authentication flows, and seamless frontend integration.
