@@ -1,9 +1,7 @@
 # 💫 About Me:
 
-                                                                                                          Meenakshi Joshi
-                                                                                                            B.Tech CSE 
-                                                                                                  Software Developer at Emireq Dubai
-
+**Meenakshi Joshi
+Software Developer at Dubai**
 🛠 I’m currently working on
 Designing and scaling the Emireq Marketplace platform as a full‑stack software developer, focusing on robust backend APIs, secure authentication flows, and seamless frontend integration.
 
