@@ -1,7 +1,8 @@
 # 💫 About Me:
 
-**Meenakshi Joshi
-Software Developer at Dubai**
+**Meenakshi Joshi**
+
+**Software Developer at Dubai**
 
 
 
