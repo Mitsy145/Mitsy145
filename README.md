@@ -1,6 +1,38 @@
 # 💫 About Me:
-I’m currently working on<br><br>Building and scaling the Emireq Marketplace platform as a full‑stack web developer, focusing on clean backend APIs, secure authentication, and smooth frontend integration.<br><br>I’m looking to collaborate on<br><br>Real-world web apps using FastAPI, Django, React, and PostgreSQL.<br><br>Backend architecture, marketplace platforms, and security-focused features like RBAC and audit logging.<br><br>I’m looking for help with<br><br>Writing production-grade microservices, deployment (Docker/CI/CD), and performance optimization for API-heavy applications.<br><br>Advanced system design and scaling strategies for high-traffic marketplaces.<br><br>I’m currently learning<br><br>Production FastAPI patterns, database optimization, and secure authentication/authorization for multi-role systems.<br><br>Frontend best practices with React for building responsive dashboards and marketplace UIs.<br><br>Ask me about<br><br>Building RESTful APIs with FastAPI and PostgreSQL for real marketplace use cases.<br><br>Full-stack development as a BTech CSE software developer at Emireq Dubai.<br><br>Fun fact<br><br>I love turning rough ideas into working prototypes quickly, then refining them into structured, scalable services for real users.
 
+                                                                                                          Meenakshi Joshi
+                                                                                                            B.Tech CSE 
+                                                                                                  Software Developer at Emireq Dubai
+
+🛠 I’m currently working on
+Designing and scaling the Emireq Marketplace platform as a full‑stack software developer, focusing on robust backend APIs, secure authentication flows, and seamless frontend integration.
+
+🤝 I’m looking to collaborate on
+
+Production-ready web applications using FastAPI, Django, React, and PostgreSQL.
+
+Backend architecture for marketplace platforms, including security-focused features like RBAC and audit logging.
+
+📌 I’m looking for help with
+
+Building and refining production-grade microservices, containerization, and deployment pipelines (Docker/CI/CD).
+
+Advanced system design and scalability strategies for high-traffic, API-heavy systems.
+
+📚 I’m currently learning
+
+Advanced FastAPI patterns, database optimization, and secure authentication/authorization for multi-role systems.
+
+Modern React best practices for building responsive dashboards and marketplace UIs.
+
+💬 Ask me about
+
+Designing and implementing RESTful APIs with FastAPI and PostgreSQL for real-world marketplace scenarios.
+
+Practical full‑stack development as a B.Tech CSE software developer working on the Emireq ecosystem.
+
+✨ Fun fact
+Enjoys turning rough ideas into quick prototypes, then evolving them into clean, scalable, and production-ready services for real users.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meenakshii_joshii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/meenakshi-joshi-422070311) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Mikku_singh2249) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joshimeenakshi848@gmail.com) 
