@@ -1,100 +1,27 @@
 ## 🦅 About Me:
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Meenakshi Joshi</title>
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    }
+<h1 align="center">✨ Meenakshi Joshi ✨</h1>
+<h3 align="center">B.Tech CSE • Software Developer at Emireq, Dubai</h3>
 
-    body {
-      min-height: 100vh;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      background: radial-gradient(circle at top, #1f2933, #050816);
-      color: #e5e7eb;
-    }
+<p align="center">
+  Aspiring full‑stack software developer who loves building real‑world web applications and scalable backend services.<br>
+  Currently focused on marketplace platforms, clean API design, and secure authentication/authorization systems. [conversation_history:9]
+</p>
 
-    .hero {
-      text-align: center;
-      padding: 2.5rem 3rem;
-      border-radius: 18px;
-      background: rgba(15, 23, 42, 0.92);
-      box-shadow:
-        0 18px 45px rgba(0, 0, 0, 0.5),
-        0 0 0 1px rgba(148, 163, 184, 0.2);
-      backdrop-filter: blur(14px);
-    }
+<hr>
 
-    .hero h1 {
-      font-size: 2.6rem;
-      letter-spacing: 0.09em;
-      text-transform: uppercase;
-      color: #f9fafb;
-    }
+<h3 align="center">🧩 About Me</h3>
 
-    .hero h1 span {
-      background: linear-gradient(120deg, #a5b4fc, #38bdf8, #f97316);
-      -webkit-background-clip: text;
-      background-clip: text;
-      color: transparent;
-    }
+<ul>
+  <li>🛠️ <strong>I'm currently working on</strong> building and scaling the Emireq Marketplace platform with FastAPI, PostgreSQL, and modern frontend tooling.</li>
+  <li>🤝 <strong>I'm looking to collaborate on</strong> full‑stack web apps, marketplace products, and security‑focused features like RBAC and audit logging.</li>
+  <li>🧠 <strong>I'm looking for help with</strong> production deployments, CI/CD, Docker/Kubernetes, and system design for high‑traffic services.</li>
+  <li>📚 <strong>I'm currently learning</strong> advanced backend architecture, API security best practices, and React‑based dashboards for admin and analytics.</li>
+  <li>💬 <strong>Ask me about</strong> FastAPI, RESTful APIs, PostgreSQL schemas, and integrating backends with modern React frontends.</li>
+  <li>⚡ <strong>Fun fact</strong> I enjoy turning rough ideas into working prototypes quickly, then polishing them into clean, scalable systems for real users.</li>
+</ul>
 
-    .hero p {
-      margin-top: 0.85rem;
-      font-size: 1.1rem;
-      letter-spacing: 0.18em;
-      text-transform: uppercase;
-      color: #9ca3af;
-    }
-
-    .badge {
-      display: inline-flex;
-      align-items: center;
-      gap: 0.55rem;
-      margin-top: 1.6rem;
-      padding: 0.4rem 0.95rem;
-      border-radius: 999px;
-      background: rgba(15, 118, 110, 0.12);
-      border: 1px solid rgba(45, 212, 191, 0.35);
-      color: #a7f3d0;
-      font-size: 0.78rem;
-      letter-spacing: 0.16em;
-      text-transform: uppercase;
-    }
-
-    .dot {
-      width: 9px;
-      height: 9px;
-      border-radius: 999px;
-      background: #22c55e;
-      box-shadow: 0 0 14px rgba(34, 197, 94, 0.9);
-    }
-  </style>
-</head>
-<body>
-  <section class="hero">
-    <div class="badge">
-      <span class="dot"></span>
-      <span>Open to collab</span>
-    </div>
-
-    <h1>
-      <span>Meenakshi</span> Joshi
-    </h1>
-
-    <p>Software Developer · Emireq Dubai · B.Tech CSE</p>
-  </section>
-</body>
-</html>
 
 
 
