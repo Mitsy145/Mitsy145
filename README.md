@@ -1,35 +1,102 @@
-<h1 align="center">Meenakshi Joshi</h1>
-<h3 align="center">Software Developer · Dubai</h3>
-
----
-
 ## 🦅 About Me:
 
-🛠 Currently Working On
-Designing and scaling the Emireq Marketplace platform as a full‑stack software developer, with a strong focus on robust backend APIs, secure authentication flows, and seamless frontend integration.
 
-🤝 Looking to Collaborate On
-Production‑ready web applications using FastAPI, Django, React, and PostgreSQL.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Meenakshi Joshi</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
 
-Backend architecture for marketplace platforms, including security‑focused features like RBAC and audit logging.
+    body {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: radial-gradient(circle at top, #1f2933, #050816);
+      color: #e5e7eb;
+    }
 
-📌 Looking for Help With
-Building and refining production‑grade microservices, containerization, and deployment pipelines (Docker / CI/CD).
+    .hero {
+      text-align: center;
+      padding: 2.5rem 3rem;
+      border-radius: 18px;
+      background: rgba(15, 23, 42, 0.92);
+      box-shadow:
+        0 18px 45px rgba(0, 0, 0, 0.5),
+        0 0 0 1px rgba(148, 163, 184, 0.2);
+      backdrop-filter: blur(14px);
+    }
 
-Advanced system design and scalability strategies for high‑traffic, API‑heavy systems.
+    .hero h1 {
+      font-size: 2.6rem;
+      letter-spacing: 0.09em;
+      text-transform: uppercase;
+      color: #f9fafb;
+    }
 
-📚 Currently Learning
-Advanced FastAPI patterns, database optimization, and secure authentication/authorization for multi‑role systems.
+    .hero h1 span {
+      background: linear-gradient(120deg, #a5b4fc, #38bdf8, #f97316);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    }
 
-Modern React best practices for building responsive dashboards and marketplace UIs.
+    .hero p {
+      margin-top: 0.85rem;
+      font-size: 1.1rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: #9ca3af;
+    }
 
-💬 Ask Me About
-Designing and implementing RESTful APIs with FastAPI and PostgreSQL for real‑world marketplace scenarios.
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.55rem;
+      margin-top: 1.6rem;
+      padding: 0.4rem 0.95rem;
+      border-radius: 999px;
+      background: rgba(15, 118, 110, 0.12);
+      border: 1px solid rgba(45, 212, 191, 0.35);
+      color: #a7f3d0;
+      font-size: 0.78rem;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+    }
 
-Practical full‑stack development as a B.Tech CSE software developer working on the Emireq ecosystem.
+    .dot {
+      width: 9px;
+      height: 9px;
+      border-radius: 999px;
+      background: #22c55e;
+      box-shadow: 0 0 14px rgba(34, 197, 94, 0.9);
+    }
+  </style>
+</head>
+<body>
+  <section class="hero">
+    <div class="badge">
+      <span class="dot"></span>
+      <span>Open to collab</span>
+    </div>
 
-✨ Fun Fact
-Enjoys turning rough ideas into quick prototypes, then evolving them into clean, scalable, and production‑ready services for real users.
+    <h1>
+      <span>Meenakshi</span> Joshi
+    </h1>
+
+    <p>Software Developer · Emireq Dubai · B.Tech CSE</p>
+  </section>
+</body>
+</html>
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meenakshii_joshii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/meenakshi-joshi-422070311) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Mikku_singh2249) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joshimeenakshi848@gmail.com) 
