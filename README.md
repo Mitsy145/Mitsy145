@@ -6,7 +6,7 @@
 
 <p align="center">
   Aspiring full‑stack software developer who loves building real‑world web applications and scalable backend services.<br>
-  Currently focused on marketplace platforms, clean API design, and secure authentication/authorization systems. [conversation_history:9]
+  Currently focused on marketplace platforms, clean API design, and secure authentication/authorization systems.
 </p>
 
 <hr>
